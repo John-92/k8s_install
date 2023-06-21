@@ -1,4 +1,4 @@
-# shell1
+# kubeadm安装
 通过kubeadm安装k8s集群
 1、下载该项目，在执行host_network.sh改变主机的主机名、静态ip和网关
 2、在install.config配置k8s集群的ip
